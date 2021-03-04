@@ -1,0 +1,5 @@
+Forward W
+Backward S
+Left A
+Right D
+Switch Z

@@ -1,0 +1,10 @@
+# Created with Anim8or 1.00
+# Object "Building 02":
+
+newmtl tex_build_01d
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 1.0
+map_Kd tex_build_01d.jpg
+

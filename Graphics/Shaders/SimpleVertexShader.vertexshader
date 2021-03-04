@@ -1,0 +1,33 @@
+#version 330 core
+
+
+layout(location = 0) in vec3 vertexPosition_modelspace;
+layout(location = 1) in vec3 vertexColor;
+layout(location = 2) in vec2 texCoord;
+layout(location = 3) in vec3 vertexNormal_modelspace;
+
+uniform mat4 trans;
+uniform mat4 projection;
+uniform mat4 view;
+
+out vec3 fragColor;
+out vec2 TexCoord;
+out vec3 normal_worldspace;
+out vec3 position_worldspace;
+
+uniform float t;
+
+void main(){
+	
+	vec3 pos = vertexPosition_modelspace;
+	
+	gl_Position =  projection*view*trans * vec4(pos,1);
+	
+	//gl_Position =  projection*view*trans * vec4(vertexPosition_modelspace,1);
+	fragColor = vertexColor;
+	TexCoord = texCoord;
+	position_worldspace = vec3(trans * vec4(vertexPosition_modelspace,1));
+	normal_worldspace = normalize(vec3(trans * vec4(vertexNormal_modelspace,0)));
+}
+
+

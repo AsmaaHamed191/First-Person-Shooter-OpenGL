@@ -1,0 +1,202 @@
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\bin\Debug\Graphics.exe
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\bin\Debug\Graphics.pdb
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\bin\Debug\GlmNet.dll
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\bin\Debug\GlmNet.xml
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\obj\Debug\Graphics.exe
+C:\Users\AG\Desktop\Player Motion (Hands With Gun)\Graphics\obj\Debug\Graphics.pdb
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\Graphics.exe.config
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\Graphics.exe
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\Graphics.pdb
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\GlmNet.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\GlmNet.pdb
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\GlmNet.xml
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\obj\Debug\Graphics.Form1.resources
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\obj\Debug\Graphics.exe
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\obj\Debug\Graphics.pdb
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Data.v18.2.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Utils.v18.2.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Data.v18.2.xml
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Utils.v18.2.xml
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Graphics\project\proj\Graphics\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\Graphics.exe.config
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\obj\Debug\Graphics.exe
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\obj\Debug\Graphics.pdb
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\Graphics.exe
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\Graphics.pdb
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\GlmNet.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\DevExpress.Data.v18.2.xml
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\GlmNet.pdb
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\GlmNet.xml
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\obj\Debug\Graphics.Form1.resources
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+F:\Faculty of Computers and Informatics\4th Year\proj\Graphics\obj\Debug\Graphics.Settings.resources
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\Graphics.exe.config
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.exe
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.pdb
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\Graphics.exe
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\Graphics.pdb
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\GlmNet.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\DevExpress.Data.v18.2.xml
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\GlmNet.pdb
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\GlmNet.xml
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.Settings.resources
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.GameOverForm.resources
+F:\Faculty of Computers and Informatics\4th Year\proj - Copy\Graphics\obj\Debug\Graphics.WinFormcs.resources
+F:\Faculty of Computers and Informatics\4th Year\First Person Shooter\Graphics\bin\Debug\Graphics.exe.config
+F:\Faculty of Computers and Informatics\4th Year\First Person Shooter\Graphics\obj\Debug\Graphics.exe
+F:\Faculty of Computers and Informatics\4th Year\First Person Shooter\Graphics\obj\Debug\Graphics.pdb
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\Graphics.exe.config
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.exe
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.pdb
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\Graphics.exe
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\Graphics.pdb
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\GlmNet.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\DevExpress.Data.v18.2.xml
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\GlmNet.pdb
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\GlmNet.xml
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.GameOverForm.resources
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.Settings.resources
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.WinFormcs.resources
+F:\Faculty of Computers and Informatics\3rd Year\Second Term\Computer Graphics\Project\First Person Shooter\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
